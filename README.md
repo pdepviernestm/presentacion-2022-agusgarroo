@@ -7,4 +7,4 @@
 
 ## foto mia
 
- ![foto](https://imgur.com/a/qjFt2Ww)
+ [foto](https://imgur.com/a/qjFt2Ww)
